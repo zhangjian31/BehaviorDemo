@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">BehaviorDemo</string>
     <string name="behavior_sample_title">com.example.jery.behaviordemo.behavior.SampleTitleBehavior</string>
+    <string name="behavior_sample_header">com.example.jery.behaviordemo.behavior.SampleHeaderBehavior</string>
+    <string name="behavior_recyclerview">com.example.jery.behaviordemo.behavior.RecyclerViewBehavior</string>
+
 </resources>
